@@ -6,14 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **react native**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Android,Web Designing**
 
 - 📫 How to reach me **raghavsaini706@gmail.com**
-
-  
-
 
 
 <h3 align="left">Languages and Tools:</h3>
