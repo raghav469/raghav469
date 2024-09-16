@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Android,Web Designing**
+  
 
 - 📫 How to reach me **raghavsaini706@gmail.com**
 
