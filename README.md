@@ -6,8 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **AI**
-
+- 🌱 I’m currently learning **Generative Artificial Intelligence**
 
 
 - 📫 How to reach me **raghavsaini706@gmail.com**
